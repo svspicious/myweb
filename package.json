@@ -11,7 +11,7 @@
     "@chakra-ui/core": "next",
     "@mdx-js/loader": "1.6.16",
     "@next/mdx": "9.5.1",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "framer-motion": "2.6.13",
     "graphcms-image": "1.1.0-beta4",
     "graphql-request": "2.0.0",
